@@ -2,6 +2,8 @@
 
 
 ## BEFORE WE BEGIN ##
+
+<a href="https://console.cloud.google.com/home/"> Link </a>
 ### BIG REMINDER: Make sure you stop your instances! ###
 
 (We know you won't read until the very bottom once your assignment is running, so we are printing this at the top too since it is ***super important***)
